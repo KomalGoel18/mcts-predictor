@@ -1,0 +1,12 @@
+# Ignore Python cache/junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# Ignore datasets (can be regenerated)
+data/
+*.csv
+
+# Do NOT ignore models (we want to commit mcts_model.pkl)
