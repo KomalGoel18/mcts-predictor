@@ -80,13 +80,3 @@ pandas / numpy → Data handling
 matplotlib → (Optional) visualization
 
 joblib → Model persistence
-
-🚀 Future Enhancements
-
-Replace synthetic match generator with real game engine data (e.g., DeepMind OpenSpiel).
-
-Add visualizations of win-rate distributions.
-
-Implement other ML models (XGBoost, Neural Nets).
-
-Extend leaderboard with different ranking systems.
